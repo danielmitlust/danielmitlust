@@ -7,6 +7,6 @@ Business Informatics student at IU International University
 German 🇩🇪 | Russian 🇷🇺 | English 🇬🇧
 
 **Tech Stack:**  
-Docker · GitHub · JavaScript · TypeScript · Vue.js · Tailwind CSS · Prisma
+JavaScript · TypeScript · Vue.js · Tailwind CSS · Docker · GitHub 
 
 [LinkedIn](https://www.linkedin.com/in/daniel-lust-83372a253/) · [X/Twitter](https://x.com/DanielLust6)
