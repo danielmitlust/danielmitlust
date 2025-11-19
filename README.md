@@ -9,7 +9,6 @@ Software Engineer at CODEANKER<br>Business Informatics student at IU Internation
 
 ## stats
 ![](https://github-readme-stats.vercel.app/api?username=danielmitlust&theme=panda&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=danielmitlust&theme=panda&hide_border=false)<br/>
 
 ## trophies
 ![](https://github-profile-trophy.vercel.app/?username=danielmitlust&theme=radical&no-frame=false&no-bg=true&margin-w=4)
