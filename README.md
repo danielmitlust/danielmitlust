@@ -1,5 +1,5 @@
 # danielmitlust
-Software Engineer at CODEANKER<br>Business Informatics student at IU International University<br><br>Languages:<br>German 🇩🇪 | Russian 🇷🇺 | English 🇬🇧
+Software Engineer at CODEANKER<br><br>Languages:<br>German 🇩🇪 | Russian 🇷🇺 | English 🇬🇧
 
 ## socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-lust-83372a253) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DanielLust6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danielmitlust@proton.me) 
